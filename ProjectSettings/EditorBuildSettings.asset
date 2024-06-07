@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/cinematica.unity
     guid: 5fb16e2466b62cd4b9883fa7f74889dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/circonofunciona.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/videohistoria.unity
     guid: 59e1ffb0f91f71944a766cecd214b526
+  - enabled: 1
+    path: Assets/Scenes/1circo.unity
+    guid: 1e9175f31d77bc94892d97d49bcf6d04
   - enabled: 1
     path: Assets/Scenes/carta2.unity
     guid: b62c1a726880ee04a962cea595666399
